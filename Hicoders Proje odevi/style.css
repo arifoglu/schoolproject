@@ -1,0 +1,22 @@
+#mainboardOne{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    margin-bottom: 2vh;
+}
+
+.h5{
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+.school-chart {
+    width: 75vw;
+    display: flex;
+}
+
+.grafik{
+    width: 75vw;
+}
